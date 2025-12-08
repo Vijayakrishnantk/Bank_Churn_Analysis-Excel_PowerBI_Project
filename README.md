@@ -1,1 +1,1 @@
-# Bank_Churn_Analysis-Excel_PowerBI_Project
+# Bank_Customer_Churn_Analysis-Excel_PowerBI_Project
