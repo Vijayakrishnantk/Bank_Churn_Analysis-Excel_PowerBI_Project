@@ -1,10 +1,10 @@
-📊 Bank Customer Churn Analysis – Power BI Project
+📊 **Bank Customer Churn Analysis – Power BI Project**
 
 This Power BI project focuses on analyzing bank customer churn to understand why customers leave and how the bank can improve retention. It explores key churn drivers such as demographics, account features, age category, credit score and customer engagement. The insights aim to improve customer satisfaction and reduce churn rate over time. Using Excel for data preprocessing and Power BI for data visualization. The project delivers a comprehensive interactive dashboard showcasing analytical findings.
 
 
 
-Objectives
+**Objectives**
 
 1.Clean and preprocess raw dataset using Excel
 
@@ -18,7 +18,7 @@ Objectives
 
 
 
-🔍 Key Features
+🔍 **Key Features**
 
 📈 Interactive Power BI dashboards for churn analysis
 
@@ -32,7 +32,7 @@ Objectives
 
 
 
-🛠️ Tools & Technologies
+🛠️ **Tools & Technologies**
 | Component   | Used For                                   |
 | ----------- | ------------------------------------------ |
 | Excel       | Clean & Preprocess Row Data                |
@@ -43,7 +43,7 @@ Objectives
 **Workflow**
 
 
-**Clean & Preprocess Row Data**
+**Microsoft Excel - Clean & Preprocess Row Data**
   1. First arrange the data correctly.	
   2. Check data types and column name.	
   3. Review column names and changed to the Proper case format.
@@ -87,7 +87,7 @@ Objectives
       |                      | > 1,00,000        | Highly Specialized        |
       
 
-Power BI - Data visualization & Dashboard Development
+**Microsoft Power BI - Data visualization & Dashboard Development**
  | Sl. No | Visual / Component            | Purpose / Description                                                                                              |
 | ------ | ----------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | **1**  | Calculated Measures           | Create measures for: Total Bank Customers, Total Not Churned Customers, Total Churned Customers & Total Churn Rate |
@@ -104,7 +104,7 @@ Power BI - Data visualization & Dashboard Development
 | **12** | Slicers                       | Churn Status filter for interactive analysis                                                                       |
 
 
-🔍 Key Insights from Analysis
+🔍 **Key Insights from Analysis**
 
 🟥 Customers with low credit scores churn significantly more
 
@@ -122,6 +122,6 @@ Power BI - Data visualization & Dashboard Development
 
 
 
-🎯 Conclusion
+🎯 **Conclusion**
 
 Improving personalized communication, offering bundle benefits and targeting low-score/high-value customers can significantly reduce churn and boost long-term profitability.
